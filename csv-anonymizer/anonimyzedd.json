@@ -1,0 +1,52 @@
+[
+  {
+    "CustomerID": "C001",
+    "FullName": "A S",
+    "Email": "a.s@example.com",
+    "PhoneNumber": "xxxxxxxx40",
+    "City": "Delhi",
+    "FeedbackText": "Loved the product quality!",
+    "PurchaseAmount": "1250",
+    "ProductCategory": "Electronics"
+  },
+  {
+    "CustomerID": "C002",
+    "FullName": "R M",
+    "Email": "r.m@example.com",
+    "PhoneNumber": "xxxxxxxx80",
+    "City": "Mumbai",
+    "FeedbackText": "Delivery was a bit late but support was great.",
+    "PurchaseAmount": "980",
+    "ProductCategory": "Fashion"
+  },
+  {
+    "CustomerID": "C003",
+    "FullName": "N R",
+    "Email": "n.r@example.com",
+    "PhoneNumber": "xxxxxxxx55",
+    "City": "Hyderabad",
+    "FeedbackText": "Excellent customer service!",
+    "PurchaseAmount": "1530",
+    "ProductCategory": "Home Decor"
+  },
+  {
+    "CustomerID": "C004",
+    "FullName": "S J",
+    "Email": "s.j@example.com",
+    "PhoneNumber": "xxxxxxxx45",
+    "City": "Bangalore",
+    "FeedbackText": "Product not as expected",
+    "PurchaseAmount": "requested return.",
+    "ProductCategory": "760"
+  },
+  {
+    "CustomerID": "C005",
+    "FullName": "P D",
+    "Email": "p.d@example.com",
+    "PhoneNumber": "xxxxxxxx34",
+    "City": "Pune",
+    "FeedbackText": "Happy with the overall experience.",
+    "PurchaseAmount": "1420",
+    "ProductCategory": "Groceries"
+  }
+]
