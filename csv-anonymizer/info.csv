@@ -1,0 +1,6 @@
+CustomerID,FullName,Email,PhoneNumber,City,FeedbackText,PurchaseAmount,ProductCategory
+C001,Aditi Sharma,aditi.sharma@example.com,8965776340,Delhi,"Loved the product quality!",1250,Electronics
+C002,Rahul Mehta,rahul.mehta@example.com,9123456780,Mumbai,"Delivery was a bit late but support was great.",980,Fashion
+C003,Neha Reddy,neha.reddy@example.com,9988776655,Hyderabad,"Excellent customer service!",1530,Home Decor
+C004,Siddharth Jain,siddharth.jain@example.com,9112233445,Bangalore,"Product not as expected, requested return.",760,Books
+C005,Priyanka Desai,priyanka.desai@example.com,9001122334,Pune,"Happy with the overall experience.",1420,Groceries
